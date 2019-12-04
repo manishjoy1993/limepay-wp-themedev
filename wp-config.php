@@ -92,3 +92,4 @@ require_once(ABSPATH . 'wp-settings.php');
 
 define('UPLOADS', 'wp-content/uploads');
 define('FS_METHOD', 'direct');
+define('WP_HTTP_BLOCK_EXTERNAL', false);
