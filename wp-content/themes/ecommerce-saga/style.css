@@ -1,0 +1,41 @@
+/*
+Theme Name: eCommerce Saga
+Description: eCommerce Saga is a multipurpose, responsive, SEO friendly and fully customizable WordPress theme for eCommerce websites. it is perfect theme to sell products online. it is fully compatible with WooCommerce plugin and have additional WooCommerce options. it comes with additional footer menu to link pages. Theme features : One Click Demo Import, Typography Options, Social Profile, Blog Options, Sidebar Menu, Top Main Menu, Footer Menu, Footer Widgets, Footer Copyright Section, Sticky Main Menu, Page Preloader, Custom Logo, Full Width Layout, Left Sidebar Layout, Right Sidebar Layout, Contact Form 7 ready, Elementor Page Builder ready, Translation ready and much more.
+Version: 1.0.0
+Author: DiThemes
+Author URI: https://dithemes.com/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: two-columns, left-sidebar, right-sidebar, grid-layout, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, flexible-header, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, blog, e-commerce, portfolio
+Text Domain: ecommerce-saga
+Template: di-responsive
+*/
+
+.footer-menu {
+	list-style-type: none;
+	padding: 0;
+	margin: 0 auto;
+	display: table;
+}
+.navbar-nav.footer-menu li {
+	display: inline-block;
+}
+
+.footer-menu li {
+	padding: 12px;
+}
+
+.footer-menu li a {
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-size: 14px;
+}
+
+/* YITH WooCommerce Quick View Compatibility */
+
+.woocommerce ul.products li.product .button.yith-wcqv-button {
+	position: relative;
+	top: 10px;
+}
+
+/* YITH WooCommerce Quick View Compatibility END */
