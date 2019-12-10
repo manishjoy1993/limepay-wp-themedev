@@ -163,7 +163,7 @@ strong {
 code,
 kbd,
 samp {
-	font-family: 'Oswald', sans-serif; /* 1 */
+	font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif; /* 1 */
 	font-size: 1em; /* 2 */
 }
 
@@ -442,7 +442,7 @@ address {
 
 pre {
 	background: #eee;
-	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
 	font-size: 15px;
 	font-size: 0.9375rem;
 	line-height: 1.6;
@@ -453,7 +453,7 @@ pre {
 }
 
 code, kbd, tt, var {
-	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+	font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
 	font-size: 15px;
 	font-size: 0.9375rem;
 }
@@ -488,7 +488,7 @@ html {
 
 body {
 	background: #fff;
-	font-family: 'Oswald', sans-serif;
+	font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
 	color:#444550;
 	font-weight: 300;
 	/* Fallback for when there is no custom background color defined. */
@@ -918,7 +918,7 @@ a:hover, a:active {
 .page-content,
 .entry-content,
 .entry-summary {
-	margin: 1.5em 0 0;
+	/* margin: 1.5em 0 0; */
 }
 
 .page-links {
@@ -1381,7 +1381,7 @@ header part start
 	position: absolute;
     display: block;
     content: "";
-    background: #ef5c5c;
+    background: #fff;
     height: 100%;
     width: 0;
     z-index: -1;
@@ -1405,7 +1405,7 @@ header part start
 }
 
 .site-header .main-navigation ul > li> a:hover {
-	color:#fff;
+	/* color:#fff; */
 }
 .site-header .main-navigation li.current-menu-item > a{
 	color: #ef5c5c;
@@ -1960,7 +1960,7 @@ header .mini_cart_inner .button,
     font-weight: 300;
     vertical-align: middle;
     padding-left:3px;
-    font-family: 'Oswald', sans-serif;
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
     color: #fff;
     padding-right: 10px;
 }
@@ -1979,7 +1979,7 @@ header .mini_cart_inner .button,
     vertical-align: middle;
     font-size: 25px;
     font-weight: 300;
-    font-family: 'Oswald', sans-serif;
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
     color: #fff;
     padding-left: 10px;
 }
@@ -2228,7 +2228,7 @@ latest-trending-section
     box-shadow: none;
     cursor: pointer;
     font-weight: 400;
-    font-family: 'Oswald', sans-serif;
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 .latest-trending-wrap .section-tabs ul li.current{
 	background: #ef5c5c;
@@ -2283,7 +2283,7 @@ latest-trending-section
 .woocommerce .woocommerce-ordering select{
 	outline: 0;
 	text-transform: uppercase;
-	font-family: 'Oswald', sans-serif;
+	font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
 	font-weight:300;
 	padding:3px;
 	line-height: 1;
@@ -2800,7 +2800,7 @@ testimonail start
 	color: #828b8e;
     font-size: 25px;
     font-style: italic;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
     padding-bottom: 15px;
     border-bottom: 1px solid #ebeeef;
     font-weight:400;
@@ -3151,7 +3151,7 @@ section .owl-carousel .owl-nav .owl-next:hover{
 	vertical-align: top;
 	font-weight: 300;
 	color: #fff;
-	font-family: 'Oswald', sans-serif;
+	font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 .site-footer .widget_newsletterwidgetminimal .tnp-widget-minimal input[type="email"]{
 	border:1px solid #ffffff;
@@ -3173,7 +3173,7 @@ section .owl-carousel .owl-nav .owl-next:hover{
    	font-size: 16px;
    	font-weight: 400;
    	text-transform: uppercase;
-   	font-family: 'Oswald', sans-serif;
+   	font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
    	outline: 0;
    	width: auto;
 }
@@ -3417,7 +3417,7 @@ contact us page
     background: #ef5c5c;
     border: 0;
     border-radius: 0;
-    font-family: 'Oswald', sans-serif;
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
     color: #fff;
     text-transform: uppercase;
     float: right;
@@ -3621,7 +3621,7 @@ h2.entry-title a:hover{
 .woocommerce-product-details__short-description{
 	color:#828b8e;
 	margin:0;
-	font-family: 'Open Sans', sans-serif;
+	font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 article.attachment .featured-image{
     float: none;
@@ -3668,7 +3668,7 @@ blockquote{
 	color:#3e5d65;
 	font-size: 16px;
 	font-style: italic;
-	font-family: 'Open Sans', sans-serif;
+	font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
 	letter-spacing: 1px;
 }
 .comments-area h2.comments-title{
@@ -3696,7 +3696,7 @@ margin:0;
 }
 .comments-area .comment-content{
     color: #828b8e;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
     margin-bottom: 9px;
     margin-top: 20px;
 }
@@ -3760,7 +3760,7 @@ margin:0;
     box-shadow: 0px 0px 6px 2px #f1f1f1;
 }
 .comment-respond .comment-form{
-	font-family: 'Open Sans', sans-serif;
+	font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
 	color:#3e5d65;
 }
 .comment-respond .comment-reply-title{
@@ -3850,7 +3850,7 @@ input[type="submit"],
     border: 0;
     border-radius: 0;
     font-size: 16px;
-    font-family: 'Oswald', sans-serif;
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
     cursor:pointer;
     -webkit-transition:all 0.3s ease-in-out;
     transition:all 0.3s ease-in-out;
@@ -3900,7 +3900,7 @@ input[type="submit"]:hover,
 	margin-bottom: 100px;
 }
 .faq-page  .ui-widget{
-	font-family: 'Oswald', sans-serif;
+	font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 .faq-page .ui-tabs .ui-tabs-nav{
 	padding: 0;
@@ -3953,7 +3953,7 @@ input[type="submit"]:hover,
 	margin: 0;
 }
 .faq-page .entry-content{
-	font-family: 'Open Sans', sans-serif;
+	font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
 	color:#828b8e;
 	margin-top: 10px;
 }
@@ -4367,7 +4367,7 @@ body #secondary .widget .container > .entry-header .entry-title:before{
 }
 .woocommerce-tabs p{
 	color: #828b8e;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 .woocommerce .woocommerce-Reviews #review_form #respond{
 	padding:45px 22px;

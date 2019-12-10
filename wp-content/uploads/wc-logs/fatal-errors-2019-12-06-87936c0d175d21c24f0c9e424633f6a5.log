@@ -1,0 +1,30 @@
+2019-12-06T07:14:15+00:00 CRITICAL syntax error, unexpected 'HEADER' (T_STRING) in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/functions.php on line 248
+
+2019-12-06T07:14:18+00:00 CRITICAL syntax error, unexpected 'HEADER' (T_STRING) in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/functions.php on line 248
+
+2019-12-06T07:14:25+00:00 CRITICAL syntax error, unexpected 'HEADER' (T_STRING) in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/functions.php on line 248
+
+2019-12-06T07:14:31+00:00 CRITICAL syntax error, unexpected 'HEADER' (T_STRING) in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/functions.php on line 248
+
+2019-12-06T07:14:34+00:00 CRITICAL syntax error, unexpected 'HEADER' (T_STRING) in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/functions.php on line 248
+
+2019-12-06T07:14:40+00:00 CRITICAL syntax error, unexpected 'HEADER' (T_STRING) in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/functions.php on line 248
+
+2019-12-06T07:14:41+00:00 CRITICAL syntax error, unexpected 'HEADER' (T_STRING) in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/functions.php on line 248
+
+2019-12-06T07:14:43+00:00 CRITICAL syntax error, unexpected 'HEADER' (T_STRING) in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/functions.php on line 248
+
+2019-12-06T07:14:47+00:00 CRITICAL syntax error, unexpected 'HEADER' (T_STRING) in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/functions.php on line 248
+
+2019-12-06T07:14:58+00:00 CRITICAL syntax error, unexpected 'HEADER' (T_STRING) in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/functions.php on line 248
+
+2019-12-06T07:15:00+00:00 CRITICAL syntax error, unexpected 'HEADER' (T_STRING) in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/functions.php on line 248
+
+2019-12-06T07:15:06+00:00 CRITICAL syntax error, unexpected 'HEADER' (T_STRING) in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/functions.php on line 248
+
+2019-12-06T09:50:07+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /var/www/html/wordpress_498/wp-content/plugins/custom_header_plugin/header/header-top.php on line 36
+
+2019-12-06T09:50:24+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /var/www/html/wordpress_498/wp-content/plugins/custom_header_plugin/header/header-top.php on line 36
+
+2019-12-06T09:57:19+00:00 CRITICAL Cannot redeclare ecommerce_shop_header_information() (previously declared in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/inc/hook/custom.php:80) in /var/www/html/wordpress_498/wp-content/plugins/custom_header_plugin/header/header-top.php on line 23
+

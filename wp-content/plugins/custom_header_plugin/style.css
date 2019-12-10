@@ -1,0 +1,35 @@
+.header_top .header_top_items{
+	display: flex;
+    justify-content: space-between;
+}
+
+.header_top .header_top_items .header_top_right{
+	display: flex;
+	padding: 10px;   
+}
+.header_top .header_top_items .header_top_right .account_page a, 
+.header_top .header_top_items .header_top_right .help_page a,
+.header_top .header_top_items .header_top_right .loc_lang span{
+	color:#8d8d8d;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+	font-size: 12px;
+	font-weight: 400;
+}
+.header_top .header_top_items .header_top_right .account_page, 
+.header_top .header_top_items .header_top_right .help_page{
+	padding: 0 15px;
+
+}
+.header_top .header_top_items .header_top_left{
+	display: flex;
+	padding: 10px 20px;
+	box-shadow: inset -1px 0 0 0 #e5e5e5;
+	text-transform: uppercase;
+}
+.header_top {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: #8d8d8d;
+    box-shadow: inset 0 -1px 0 0 #e5e5e5;
+    font-size: 12px;
+	font-weight: 400;
+}

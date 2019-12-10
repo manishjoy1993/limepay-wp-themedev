@@ -240,3 +240,5 @@ add_action( 'wp_enqueue_scripts', 'ecommerce_shop_scripts' );
  * Load init.
  */
 require_once trailingslashit( get_template_directory() ) . 'inc/init.php';
+
+?>
