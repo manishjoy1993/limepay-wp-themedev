@@ -1,0 +1,46 @@
+2019-12-05T05:24:14+00:00 CRITICAL Class 'Puc_v4p4_Plugin_Info' not found in /var/www/html/wordpress_498/wp-content/plugins/jft-assitant-plugin/vendor/yahnis-elsts/plugin-update-checker/Puc/v4p4/Vcs/PluginUpdateChecker.php on line 44
+
+2019-12-05T06:45:32+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_market_woocommerce_placeholder_img_src() in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/inc/widget/rated-section.php:122
+Stack trace:
+#0 /var/www/html/wordpress_498/wp-includes/class-wp-widget.php(372): ecommerce_shop_product_slider->widget(Array, Array)
+#1 /var/www/html/wordpress_498/wp-includes/widgets.php(743): WP_Widget->display_callback(Array, Array)
+#2 /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/front-page.php(18): dynamic_sidebar('home-widget-are...')
+#3 /var/www/html/wordpress_498/wp-includes/template-loader.php(74): include('/var/www/html/w...')
+#4 /var/www/html/wordpress_498/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#5 /var/www/html/wordpress_498/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/inc/widget/rated-section.php on line 122
+
+2019-12-05T06:45:36+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_market_woocommerce_placeholder_img_src() in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/inc/widget/rated-section.php:122
+Stack trace:
+#0 /var/www/html/wordpress_498/wp-includes/class-wp-widget.php(372): ecommerce_shop_product_slider->widget(Array, Array)
+#1 /var/www/html/wordpress_498/wp-includes/widgets.php(743): WP_Widget->display_callback(Array, Array)
+#2 /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/front-page.php(18): dynamic_sidebar('home-widget-are...')
+#3 /var/www/html/wordpress_498/wp-includes/template-loader.php(74): include('/var/www/html/w...')
+#4 /var/www/html/wordpress_498/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#5 /var/www/html/wordpress_498/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/inc/widget/rated-section.php on line 122
+
+2019-12-05T06:45:43+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_market_woocommerce_placeholder_img_src() in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/inc/widget/rated-section.php:122
+Stack trace:
+#0 /var/www/html/wordpress_498/wp-includes/class-wp-widget.php(372): ecommerce_shop_product_slider->widget(Array, Array)
+#1 /var/www/html/wordpress_498/wp-includes/widgets.php(743): WP_Widget->display_callback(Array, Array)
+#2 /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/front-page.php(18): dynamic_sidebar('home-widget-are...')
+#3 /var/www/html/wordpress_498/wp-includes/template-loader.php(74): include('/var/www/html/w...')
+#4 /var/www/html/wordpress_498/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#5 /var/www/html/wordpress_498/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/inc/widget/rated-section.php on line 122
+
+2019-12-05T06:46:01+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_market_woocommerce_placeholder_img_src() in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/inc/widget/rated-section.php:122
+Stack trace:
+#0 /var/www/html/wordpress_498/wp-includes/class-wp-widget.php(372): ecommerce_shop_product_slider->widget(Array, Array)
+#1 /var/www/html/wordpress_498/wp-includes/widgets.php(743): WP_Widget->display_callback(Array, Array)
+#2 /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/front-page.php(18): dynamic_sidebar('home-widget-are...')
+#3 /var/www/html/wordpress_498/wp-includes/template-loader.php(74): include('/var/www/html/w...')
+#4 /var/www/html/wordpress_498/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#5 /var/www/html/wordpress_498/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wordpress_498/wp-content/themes/ecommerce-shop/inc/widget/rated-section.php on line 122
+

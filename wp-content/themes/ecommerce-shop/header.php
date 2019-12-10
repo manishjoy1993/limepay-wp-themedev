@@ -30,6 +30,7 @@
 
 	<?php wp_head(); ?>
 	<link rel="stylesheet" type="text/css" href="https://www.nike.com/assets/ncss/3.1/dotcom/desktop/css/ncss.en-gb.min.css">
+	<link rel="stylesheet" type="text/css" href="http://demo.limepay.com.au/wordpress_498/wp-content/plugins/elementor/assets/css/frontend.min.css">
 </head>
 
 <body <?php body_class(); ?>>
@@ -92,4 +93,6 @@
 		 *
 		 */
 		do_action( 'ecommerce_shop_action_before_content' );
+		
 	?>
+	
