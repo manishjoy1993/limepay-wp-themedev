@@ -1,0 +1,1 @@
+a:1:{s:6:"images";a:5:{s:6:"single";s:4:"1000";s:9:"thumbnail";s:3:"680";s:8:"cropping";s:6:"custom";s:21:"cropping_custom_width";s:3:"333";s:22:"cropping_custom_height";s:3:"408";}}
